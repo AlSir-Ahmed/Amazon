@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run E-commerce Customers-MLMD.py
